@@ -24,6 +24,6 @@ pin <- rbindlist(pin, fill = T)
 fi_terms <- c("food", "aliment")
 disq_terms <- c("nfi", "non.food", "non.aliment")
 
-fi_pin <- pin[!grepl(paste0(disq_terms, collapse = "|"), sector, ignore.case = T), food_insecure := grepl(paste0(fi_terms, collapse = "|"), sector, ignore.case = T)]
+fi_pin <- pin[(!grepl(paste0(disq_terms, collapse = "|"), sector, ignore.case = T) & sector_id != "FSC"), food_insecure := (grepl(paste0(fi_terms, collapse = "|"), sector, ignore.case = T) | sector_id == "FSC")]
 
 fwrite(fi_pin, "project_data/hno_data.csv")
