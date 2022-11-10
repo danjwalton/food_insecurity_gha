@@ -209,11 +209,21 @@ BI,BDI,Acute Food Insecurity April 2022,2022-04-16,C,2,3078735,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-04-16,C,3,1182686,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-04-16,C,4,0,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-04-16,C,5,0,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-07-17,C,1,7514843,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-07-17,C,2,3345210,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-07-17,C,3,1134544,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-07-17,C,4,50637,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-07-17,C,5,0,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-07-17,P,1,8636769,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-07-17,P,2,2762799,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-07-17,P,3,645668,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-07-17,P,4,0,2022
 BI,BDI,Acute Food Insecurity April 2022,2022-07-17,P,5,0,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-10-31,P,1,6981060,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-10-31,P,2,3660306,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-10-31,P,3,1353231,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-10-31,P,4,50637,2022
+BI,BDI,Acute Food Insecurity August 2022,2022-10-31,P,5,0,2022
 BJ,BEN,Cadre Harmonisé Analysis March 2022,2022-07-01,P,1,9766619,2022
 BJ,BEN,Cadre Harmonisé Analysis March 2022,2022-07-01,P,2,2318231,2022
 BJ,BEN,Cadre Harmonisé Analysis March 2022,2022-07-01,P,3,806329,2022
@@ -259,16 +269,16 @@ CD,COD,Acute Food Insecurity July 2020 (18ème Cycle),2021-03-18,P,2,30253083,20
 CD,COD,Acute Food Insecurity July 2020 (18ème Cycle),2021-03-18,P,3,14741315,2021
 CD,COD,Acute Food Insecurity July 2020 (18ème Cycle),2021-03-18,P,4,4875473,2021
 CD,COD,Acute Food Insecurity July 2020 (18ème Cycle),2021-03-18,P,5,0,2021
-CD,COD,Acute Food Insecurity February 2021,2021-04-17,C,1,27991133,2021
-CD,COD,Acute Food Insecurity February 2021,2021-04-17,C,2,40779180,2021
-CD,COD,Acute Food Insecurity February 2021,2021-04-17,C,3,20533701,2021
-CD,COD,Acute Food Insecurity February 2021,2021-04-17,C,4,6728634,2021
-CD,COD,Acute Food Insecurity February 2021,2021-04-17,C,5,0,2021
-CD,COD,Acute Food Insecurity February 2021,2021-10-01,P,1,27652007,2021
-CD,COD,Acute Food Insecurity February 2021,2021-10-01,P,2,42201990,2021
-CD,COD,Acute Food Insecurity February 2021,2021-10-01,P,3,20560599,2021
-CD,COD,Acute Food Insecurity February 2021,2021-10-01,P,4,5618039,2021
-CD,COD,Acute Food Insecurity February 2021,2021-10-01,P,5,0,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-04-17,C,1,27991133,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-04-17,C,2,40779180,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-04-17,C,3,20533701,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-04-17,C,4,6728634,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-04-17,C,5,0,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-10-01,P,1,27652007,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-10-01,P,2,42201990,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-10-01,P,3,20560599,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-10-01,P,4,5618039,2021
+CD,COD,Acute Food Insecurity February 2021 (19ème Cycle),2021-10-01,P,5,0,2021
 CD,COD,Acute Food Insecurity September 2021 (20ème cycle),2021-10-17,C,1,30793351,2021
 CD,COD,Acute Food Insecurity September 2021 (20ème cycle),2021-10-17,C,2,44445580,2021
 CD,COD,Acute Food Insecurity September 2021 (20ème cycle),2021-10-17,C,3,20915413,2021
@@ -279,11 +289,21 @@ CD,COD,Acute Food Insecurity September 2021 (20ème cycle),2022-03-18,P,2,478309
 CD,COD,Acute Food Insecurity September 2021 (20ème cycle),2022-03-18,P,3,20463619,2022
 CD,COD,Acute Food Insecurity September 2021 (20ème cycle),2022-03-18,P,4,5415902,2022
 CD,COD,Acute Food Insecurity September 2021 (20ème cycle),2022-03-18,P,5,0,2022
-CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle d'analyse IPC) ,2017-03-17,C,1,1030103,2017
-CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle d'analyse IPC) ,2017-03-17,C,2,1502205,2017
-CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle d'analyse IPC) ,2017-03-17,C,3,721712,2017
-CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle d'analyse IPC) ,2017-03-17,C,4,299001,2017
-CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle d'analyse IPC) ,2017-03-17,C,5,0,2017
+CD,COD,Acute Food Insecurity July 2022,2022-09-15,C,1,31685862,2022
+CD,COD,Acute Food Insecurity July 2022,2022-09-15,C,2,44832741,2022
+CD,COD,Acute Food Insecurity July 2022,2022-09-15,C,3,22617472,2022
+CD,COD,Acute Food Insecurity July 2022,2022-09-15,C,4,3840615,2022
+CD,COD,Acute Food Insecurity July 2022,2022-09-15,C,5,0,2022
+CD,COD,Acute Food Insecurity July 2022,2023-03-18,P,1,31270137,2023
+CD,COD,Acute Food Insecurity July 2022,2023-03-18,P,2,47117573,2023
+CD,COD,Acute Food Insecurity July 2022,2023-03-18,P,3,21770678,2023
+CD,COD,Acute Food Insecurity July 2022,2023-03-18,P,4,2813093,2023
+CD,COD,Acute Food Insecurity July 2022,2023-03-18,P,5,0,2023
+CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle),2017-03-17,C,1,1030103,2017
+CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle),2017-03-17,C,2,1502205,2017
+CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle),2017-03-17,C,3,721712,2017
+CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle),2017-03-17,C,4,299001,2017
+CF,CAF,Acute Food Insecurity February 2017 (12ème Cycle),2017-03-17,C,5,0,2017
 CF,CAF,Acute Food Insecurity March 2018 (13è Cycle),2018-03-01,C,1,1119186,2018
 CF,CAF,Acute Food Insecurity March 2018 (13è Cycle),2018-03-01,C,2,2273171,2018
 CF,CAF,Acute Food Insecurity March 2018 (13è Cycle),2018-03-01,C,3,1374233,2018
@@ -724,6 +744,16 @@ HT,HTI,Acute Food Insecurity Feb 2022 (Projection Update),2022-04-16,P,2,2652490
 HT,HTI,Acute Food Insecurity Feb 2022 (Projection Update),2022-04-16,P,3,3178228,2022
 HT,HTI,Acute Food Insecurity Feb 2022 (Projection Update),2022-04-16,P,4,1317629,2022
 HT,HTI,Acute Food Insecurity Feb 2022 (Projection Update),2022-04-16,P,5,0,2022
+HT,HTI,Acute Food Insecurity September 2022,2022-11-16,C,1,2397491,2022
+HT,HTI,Acute Food Insecurity September 2022,2022-11-16,C,2,2784875,2022
+HT,HTI,Acute Food Insecurity September 2022,2022-11-16,C,3,2891238,2022
+HT,HTI,Acute Food Insecurity September 2022,2022-11-16,C,4,1813949,2022
+HT,HTI,Acute Food Insecurity September 2022,2022-11-16,C,5,19206,2022
+HT,HTI,Acute Food Insecurity September 2022,2023-04-16,P,1,2378324,2023
+HT,HTI,Acute Food Insecurity September 2022,2023-04-16,P,2,2816901,2023
+HT,HTI,Acute Food Insecurity September 2022,2023-04-16,P,3,3038489,2023
+HT,HTI,Acute Food Insecurity September 2022,2023-04-16,P,4,1653841,2023
+HT,HTI,Acute Food Insecurity September 2022,2023-04-16,P,5,19206,2023
 KE,KEN,Acute Food Insecurity July 2019,2019-07-01,C,1,4757638,2019
 KE,KEN,Acute Food Insecurity July 2019,2019-07-01,C,2,6556370,2019
 KE,KEN,Acute Food Insecurity July 2019,2019-07-01,C,3,2269510,2019
@@ -789,6 +819,16 @@ KE,KEN,Acute Food Insecurity April 2022 (Proj Update),2022-04-16,P,2,5087940,202
 KE,KEN,Acute Food Insecurity April 2022 (Proj Update),2022-04-16,P,3,3002098,2022
 KE,KEN,Acute Food Insecurity April 2022 (Proj Update),2022-04-16,P,4,1100155,2022
 KE,KEN,Acute Food Insecurity April 2022 (Proj Update),2022-04-16,P,5,0,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-08-01,C,1,6271992,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-08-01,C,2,5049274,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-08-01,C,3,2728090,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-08-01,C,4,785216,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-08-01,C,5,0,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-10-31,P,1,5370418,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-10-31,P,2,5109608,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-10-31,P,3,3142734,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-10-31,P,4,1211811,2022
+KE,KEN,Acute Food Insecurity July 2022 (LRA),2022-10-31,P,5,0,2022
 LAC,LAC,Acute Food Insecurity February 2018,2018-03-17,C,1,191320,2018
 LAC,LAC,Acute Food Insecurity February 2018,2018-03-17,C,2,141900,2018
 LAC,LAC,Acute Food Insecurity February 2018,2018-03-17,C,3,23780,2018
@@ -939,6 +979,16 @@ LS,LSO,Acute Food Insecurity November 2021,2022-01-31,P,2,527840,2022
 LS,LSO,Acute Food Insecurity November 2021,2022-01-31,P,3,311868,2022
 LS,LSO,Acute Food Insecurity November 2021,2022-01-31,P,4,25643,2022
 LS,LSO,Acute Food Insecurity November 2021,2022-01-31,P,5,0,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-08-01,C,1,761172,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-08-01,C,2,495471,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-08-01,C,3,228504,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-08-01,C,4,0,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-08-01,C,5,0,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-12-16,P,1,654668,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-12-16,P,2,511048,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-12-16,P,3,319431,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-12-16,P,4,0,2022
+LS,LSO,Acute Food Insecurity June 2022,2022-12-16,P,5,0,2022
 MG,MDG,Acute Food Insecurity June 2017 (Grand de Sud),2017-03-31,C,1,871988,2017
 MG,MDG,Acute Food Insecurity June 2017 (Grand de Sud),2017-03-31,C,2,1034006,2017
 MG,MDG,Acute Food Insecurity June 2017 (Grand de Sud),2017-03-31,C,3,791082,2017
@@ -1049,16 +1099,31 @@ MG,MDG,Acute Food Insecurity November 2021 (GrandSud/Est),2022-06-16,A,2,2039368
 MG,MDG,Acute Food Insecurity November 2021 (GrandSud/Est),2022-06-16,A,3,911630,2022
 MG,MDG,Acute Food Insecurity November 2021 (GrandSud/Est),2022-06-16,A,4,181533,2022
 MG,MDG,Acute Food Insecurity November 2021 (GrandSud/Est),2022-06-16,A,5,0,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-08-31,C,1,188736,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-08-31,C,2,350155,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-08-31,C,3,176500,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-08-31,C,4,14362,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-08-31,C,5,0,2022
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2022-10-01,P,1,1199455,2022
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2022-10-01,P,2,2106299,2022
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2022-10-01,P,3,1723006,2022
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2022-10-01,P,4,221846,2022
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2022-10-01,P,5,0,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-12-01,P,1,211423,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-12-01,P,2,380706,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-12-01,P,3,134514,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-12-01,P,4,3111,2022
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2022-12-01,P,5,0,2022
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2023-01-15,A,1,1096493,2023
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2023-01-15,A,2,2089808,2023
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2023-01-15,A,3,1779639,2023
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2023-01-15,A,4,284667,2023
 MG,MDG,Acute Food Insecurity April 2022 (GrandSud/Est),2023-01-15,A,5,0,2023
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2023-02-15,A,1,189297,2023
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2023-02-15,A,2,367248,2023
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2023-02-15,A,3,158845,2023
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2023-02-15,A,4,14362,2023
+MG,MDG,Acute Food Insecurity July 2022 (Grand Sud Est),2023-02-15,A,5,0,2023
 ML,MLI,Cadre Harmonisé Analysis March 2022 (Projection),2022-07-01,P,1,15442554,2022
 ML,MLI,Cadre Harmonisé Analysis March 2022 (Projection),2022-07-01,P,2,4417117,2022
 ML,MLI,Cadre Harmonisé Analysis March 2022 (Projection),2022-07-01,P,3,1680684,2022
@@ -1129,21 +1194,21 @@ MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-08-01,C,2,5524860,20
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-08-01,C,3,1696880,2020
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-08-01,C,4,0,2020
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-08-01,C,5,0,2020
-MW,MWI,Acute Food Insecurity Analysis November 2020,2020-11-16,C,1,8945225,2020
-MW,MWI,Acute Food Insecurity Analysis November 2020,2020-11-16,C,2,6183030,2020
-MW,MWI,Acute Food Insecurity Analysis November 2020,2020-11-16,C,3,2549703,2020
-MW,MWI,Acute Food Insecurity Analysis November 2020,2020-11-16,C,4,0,2020
-MW,MWI,Acute Food Insecurity Analysis November 2020,2020-11-16,C,5,0,2020
+MW,MWI,Acute Food Insecurity November 2020,2020-11-16,C,1,8945225,2020
+MW,MWI,Acute Food Insecurity November 2020,2020-11-16,C,2,6183030,2020
+MW,MWI,Acute Food Insecurity November 2020,2020-11-16,C,3,2549703,2020
+MW,MWI,Acute Food Insecurity November 2020,2020-11-16,C,4,0,2020
+MW,MWI,Acute Food Insecurity November 2020,2020-11-16,C,5,0,2020
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-12-16,P,1,8840896,2020
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-12-16,P,2,6219071,2020
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-12-16,P,3,2617989,2020
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-12-16,P,4,0,2020
 MW,MWI,Acute Food Insecurity August 2020 (Rural/Urban),2020-12-16,P,5,0,2020
-MW,MWI,Acute Food Insecurity Analysis November 2020,2021-01-31,P,1,8768789,2021
-MW,MWI,Acute Food Insecurity Analysis November 2020,2021-01-31,P,2,6266629,2021
-MW,MWI,Acute Food Insecurity Analysis November 2020,2021-01-31,P,3,2509092,2021
-MW,MWI,Acute Food Insecurity Analysis November 2020,2021-01-31,P,4,133446,2021
-MW,MWI,Acute Food Insecurity Analysis November 2020,2021-01-31,P,5,0,2021
+MW,MWI,Acute Food Insecurity November 2020,2021-01-31,P,1,8768789,2021
+MW,MWI,Acute Food Insecurity November 2020,2021-01-31,P,2,6266629,2021
+MW,MWI,Acute Food Insecurity November 2020,2021-01-31,P,3,2509092,2021
+MW,MWI,Acute Food Insecurity November 2020,2021-01-31,P,4,133446,2021
+MW,MWI,Acute Food Insecurity November 2020,2021-01-31,P,5,0,2021
 MW,MWI,Acute Food Insecurity August 2021,2021-08-01,C,1,14160114,2021
 MW,MWI,Acute Food Insecurity August 2021,2021-08-01,C,2,3602819,2021
 MW,MWI,Acute Food Insecurity August 2021,2021-08-01,C,3,1064674,2021
@@ -1164,16 +1229,16 @@ MW,MWI,Acute Food Insecurity November 2021,2022-01-31,P,2,5001884,2022
 MW,MWI,Acute Food Insecurity November 2021,2022-01-31,P,3,1653277,2022
 MW,MWI,Acute Food Insecurity November 2021,2022-01-31,P,4,0,2022
 MW,MWI,Acute Food Insecurity November 2021,2022-01-31,P,5,0,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-07-17,C,1,10232736,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-07-17,C,2,6483482,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-07-17,C,3,2632741,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-07-17,C,4,0,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-07-17,C,5,0,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-12-16,P,1,8815303,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-12-16,P,2,6679660,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-12-16,P,3,3822502,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-12-16,P,4,0,2022
-MW,MWI,Malawi Acute Food Insecurity Analysis June 2022,2022-12-16,P,5,0,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-07-17,C,1,10232736,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-07-17,C,2,6483482,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-07-17,C,3,2632741,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-07-17,C,4,0,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-07-17,C,5,0,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-12-16,P,1,8815303,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-12-16,P,2,6679660,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-12-16,P,3,3822502,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-12-16,P,4,0,2022
+MW,MWI,Acute Food Insecurity June 2022,2022-12-16,P,5,0,2022
 MZ,MOZ,Acute Food Insecurity May 2017 (20 districts),2017-03-17,C,1,1096341,2017
 MZ,MOZ,Acute Food Insecurity May 2017 (20 districts),2017-03-17,C,2,799090,2017
 MZ,MOZ,Acute Food Insecurity May 2017 (20 districts),2017-03-17,C,3,762581,2017
@@ -1599,6 +1664,16 @@ SO,SOM,Acute Food Insecurity May 2022,2022-07-17,P,2,4060200,2022
 SO,SOM,Acute Food Insecurity May 2022,2022-07-17,P,3,4730510,2022
 SO,SOM,Acute Food Insecurity May 2022,2022-07-17,P,4,2127580,2022
 SO,SOM,Acute Food Insecurity May 2022,2022-07-17,P,5,213180,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-08-01,C,1,9206483,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-08-01,C,2,2893190,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-08-01,C,3,3004020,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-08-01,C,4,1147690,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-08-01,C,5,121040,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-10-31,P,1,6568562,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-10-31,P,2,3135400,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-10-31,P,3,4200304,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-10-31,P,4,2179900,2022
+SO,SOM,Acute Food Insecurity August 2022,2022-10-31,P,5,300560,2022
 SS,SSD,Acute Food Insecurity January 2017,2017-01-01,C,1,3609425,2017
 SS,SSD,Acute Food Insecurity January 2017,2017-01-01,C,2,4589186,2017
 SS,SSD,Acute Food Insecurity January 2017,2017-01-01,C,3,2647648,2017
@@ -1684,11 +1759,11 @@ SS,SSD,Acute Food Insecurity January 2019,2019-05-31,A,2,3294165,2019
 SS,SSD,Acute Food Insecurity January 2019,2019-05-31,A,3,4916422,2019
 SS,SSD,Acute Food Insecurity January 2019,2019-05-31,A,4,1821162,2019
 SS,SSD,Acute Food Insecurity January 2019,2019-05-31,A,5,38532,2019
-SS,SSD,Acute Food Insecurity May 2019 (Update of Proj Acute Food Insecurity Jan 19),2019-05-31,A,1,1183153,2019
-SS,SSD,Acute Food Insecurity May 2019 (Update of Proj Acute Food Insecurity Jan 19),2019-05-31,A,2,3243289,2019
-SS,SSD,Acute Food Insecurity May 2019 (Update of Proj Acute Food Insecurity Jan 19),2019-05-31,A,3,5120349,2019
-SS,SSD,Acute Food Insecurity May 2019 (Update of Proj Acute Food Insecurity Jan 19),2019-05-31,A,4,1820561,2019
-SS,SSD,Acute Food Insecurity May 2019 (Update of Proj Acute Food Insecurity Jan 19),2019-05-31,A,5,20972,2019
+SS,SSD,Acute Food Insecurity May 2019 (Projection update),2019-05-31,A,1,1183153,2019
+SS,SSD,Acute Food Insecurity May 2019 (Projection update),2019-05-31,A,2,3243289,2019
+SS,SSD,Acute Food Insecurity May 2019 (Projection update),2019-05-31,A,3,5120349,2019
+SS,SSD,Acute Food Insecurity May 2019 (Projection update),2019-05-31,A,4,1820561,2019
+SS,SSD,Acute Food Insecurity May 2019 (Projection update),2019-05-31,A,5,20972,2019
 SS,SSD,Acute Food Insecurity August 2019,2019-08-01,C,1,1860930,2019
 SS,SSD,Acute Food Insecurity August 2019,2019-08-01,C,2,3491650,2019
 SS,SSD,Acute Food Insecurity August 2019,2019-08-01,C,3,4644582,2019
@@ -1744,6 +1819,21 @@ SS,SSD,Acute Food Insecurity March 2022,2022-05-17,P,2,2909046,2022
 SS,SSD,Acute Food Insecurity March 2022,2022-05-17,P,3,4759542,2022
 SS,SSD,Acute Food Insecurity March 2022,2022-05-17,P,4,2893794,2022
 SS,SSD,Acute Food Insecurity March 2022,2022-05-17,P,5,86943,2022
+SS,SSD,Acute Food Insecurity October 2022,2022-10-17,C,1,2010394,2022
+SS,SSD,Acute Food Insecurity October 2022,2022-10-17,C,2,3730009,2022
+SS,SSD,Acute Food Insecurity October 2022,2022-10-17,C,3,4355078,2022
+SS,SSD,Acute Food Insecurity October 2022,2022-10-17,C,4,2217883,2022
+SS,SSD,Acute Food Insecurity October 2022,2022-10-17,C,5,60703,2022
+SS,SSD,Acute Food Insecurity October 2022,2023-01-15,P,1,2223715,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-01-15,P,2,3840058,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-01-15,P,3,4312071,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-01-15,P,4,1965621,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-01-15,P,5,32609,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-05-17,A,1,1530760,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-05-17,A,2,3077479,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-05-17,A,3,4821272,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-05-17,A,4,2900752,2023
+SS,SSD,Acute Food Insecurity October 2022,2023-05-17,A,5,43810,2023
 SV,SLV,Acute Food Insecurity November 2017 (Partial),2017-12-17,C,1,2279836,2017
 SV,SLV,Acute Food Insecurity November 2017 (Partial),2017-12-17,C,2,222825,2017
 SV,SLV,Acute Food Insecurity November 2017 (Partial),2017-12-17,C,3,0,2017
@@ -2084,6 +2174,16 @@ ZM,ZMB,Acute Food Insecurity June 2021,2021-12-16,P,2,5184816,2021
 ZM,ZMB,Acute Food Insecurity June 2021,2021-12-16,P,3,1575160,2021
 ZM,ZMB,Acute Food Insecurity June 2021,2021-12-16,P,4,0,2021
 ZM,ZMB,Acute Food Insecurity June 2021,2021-12-16,P,5,0,2021
+ZM,ZMB,Acute Food Insecurity June 2022,2022-07-17,C,1,6006630,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-07-17,C,2,6132048,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-07-17,C,3,1351646,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-07-17,C,4,0,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-07-17,C,5,0,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-12-16,P,1,4937184,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-12-16,P,2,6601017,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-12-16,P,3,1952126,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-12-16,P,4,0,2022
+ZM,ZMB,Acute Food Insecurity June 2022,2022-12-16,P,5,0,2022
 ZW,ZWE,Acute Food Insecurity February 2019,2019-03-17,C,1,3668408,2019
 ZW,ZWE,Acute Food Insecurity February 2019,2019-03-17,C,2,2873304,2019
 ZW,ZWE,Acute Food Insecurity February 2019,2019-03-17,C,3,1891777,2019
@@ -2099,11 +2199,11 @@ ZW,ZWE,Acute Food Insecurity June 2019,2019-10-31,P,2,2679446,2019
 ZW,ZWE,Acute Food Insecurity June 2019,2019-10-31,P,3,2474752,2019
 ZW,ZWE,Acute Food Insecurity June 2019,2019-10-31,P,4,1106533,2019
 ZW,ZWE,Acute Food Insecurity June 2019,2019-10-31,P,5,0,2019
-ZW,ZWE,Acute Food Insecurity Analysis February 2020,2020-04-01,C,1,2580566,2020
-ZW,ZWE,Acute Food Insecurity Analysis February 2020,2020-04-01,C,2,2784140,2020
-ZW,ZWE,Acute Food Insecurity Analysis February 2020,2020-04-01,C,3,3294336,2020
-ZW,ZWE,Acute Food Insecurity Analysis February 2020,2020-04-01,C,4,1047090,2020
-ZW,ZWE,Acute Food Insecurity Analysis February 2020,2020-04-01,C,5,0,2020
+ZW,ZWE,Acute Food Insecurity February 2020,2020-04-01,C,1,2580566,2020
+ZW,ZWE,Acute Food Insecurity February 2020,2020-04-01,C,2,2784140,2020
+ZW,ZWE,Acute Food Insecurity February 2020,2020-04-01,C,3,3294336,2020
+ZW,ZWE,Acute Food Insecurity February 2020,2020-04-01,C,4,1047090,2020
+ZW,ZWE,Acute Food Insecurity February 2020,2020-04-01,C,5,0,2020
 ZW,ZWE,Acute Food Insecurity October 2020,2020-10-31,C,1,4222509,2020
 ZW,ZWE,Acute Food Insecurity October 2020,2020-10-31,C,2,2878146,2020
 ZW,ZWE,Acute Food Insecurity October 2020,2020-10-31,C,3,2017249,2020
