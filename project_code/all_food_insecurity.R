@@ -7,7 +7,7 @@ ipc <- fread("project_data/ipc-ch_national.csv", encoding = "UTF-8")
 hno <- fread("project_data/hno_data.csv", encoding = "UTF-8")
 
 hno_ex <- hno[!is.na(value) & !(paste0(iso3, year) %in% ipc[, .(paste0(iso3, year))]$V1)]
-hno_ex <- hno_ex[, .(`3+` = max(value[food_insecure == T], na.rm = T), N = max(value[metric_id %in% c("inNeed", "target")], na.rm = T), source = "HNO"), by = .(iso3, year)]
+hno_ex <- hno_ex[, .(`3+` = max(value[food_insecure == T & metric_id %in% c("inNeed", "target")], na.rm = T), N = max(value[metric_id %in% c("affected", "inNeed", "target")], na.rm = T), source = "HNO"), by = .(iso3, year)]
 
 hno_ex <- hno_ex[!is.infinite(`3+`)]
 
